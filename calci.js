@@ -25,3 +25,8 @@ function display(val) {
     document.getElementById('result').value = ''
   
   }
+  function deleteScreen(){
+  
+    document.getElementById('result').value = ''
+  
+  }

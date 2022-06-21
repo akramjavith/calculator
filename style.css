@@ -97,6 +97,22 @@ boady{
     background-color: #b0f173;
 
 }
+.del{
+    background-color: black;
+
+    border-color: #b0353a;
+
+    color: white;
+
+    width: 80px;
+
+    height: 30px;  
+
+}
+.del:hover {
+
+    background-color: yellowgreen;
+}
 
 .equal-sign {
 
