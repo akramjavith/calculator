@@ -1,5 +1,5 @@
 //display function
-function display(val){
+function display(val) {
 
     document.getElementById('result').value += val
   
@@ -8,7 +8,7 @@ function display(val){
   }
   
   //solve function
-  function solve(){
+  function solve() {
   
     let x = document.getElementById('result').value
   
